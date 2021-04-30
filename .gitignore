@@ -1,0 +1,5 @@
+.vscode
+target/
+
+# As this project is a binary output, we include the Cargo.lock file
+# If this project was to turn into a library, we would ignore the Cargo.lock file
